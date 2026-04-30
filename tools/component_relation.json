@@ -1,6 +1,6 @@
 {
     "name": "Enrichment analysis",
-    "img": null,
+    "img": "/brave-api/pipeline-dir/tools/f29920b6-db5c-4b5b-9696-c9b3bda2e60c/main.png?v=1777537182",
     "tags": null,
     "url": "https://gitee.com/pybrave/enrichment-analysis",
     "category": "Downstream analysis",
@@ -83,6 +83,6 @@
     ],
     "output_component_ids": null,
     "order_index": 23,
-    "version": "v1.1.2",
+    "version": "v1.1.3",
     "update_info": null
 }
